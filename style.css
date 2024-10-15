@@ -20,8 +20,8 @@ justify-content: center;
 
 .nav-item:hover {
     cursor: pointer;
-    background-color: antiquewhite;
-    color: grey;
+    background-color: white;
+    color: black;
 }
 
 
