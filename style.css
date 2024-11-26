@@ -32,6 +32,12 @@ padding-right: 8%;
 padding-top: 2%;
 }
 
+.moldura_videos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
 
 
 
